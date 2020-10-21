@@ -48,7 +48,11 @@ class Vector
 
            multiplicavectores.push(producto);
         }
+<<<<<<< HEAD
         console.log("Product = " + multiplicavectores)
+=======
+        console.log("Produc = " + multiplicavectores)
+>>>>>>> rama_2
     }
 
     
