@@ -48,7 +48,7 @@ class Vector
 
            multiplicavectores.push(producto);
         }
-        console.log("Producto = " + multiplicavectores)
+        console.log("Produc = " + multiplicavectores)
     }
 
     
